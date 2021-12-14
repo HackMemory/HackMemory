@@ -1,5 +1,25 @@
-### Hi there 👋
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=HackMemory&show_icons=true&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HackMemory&layout=compact&show_icons=true&theme=github_dark)
+
+
+
+### Contacts
+
+<a href="https://www.linkedin.com/in/akbar-aliyev-002493211/">
+  <img width="32px" src="https://img.icons8.com/color/48/000000/linkedin.png"  />
+</a>
+<a href="https://vk.com/creedli">
+  <img width="32px" src="https://img.icons8.com/color/48/000000/vk-com.png" />
+</a>
+<a href="mailto:dragon.warri0r@ya.ru">
+  <img width="32px" src="https://img.icons8.com/color/48/000000/apple-mail.png" />
+</a>
+
+<br />
+<br />
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=HackMemory.HackMemory)
 <!--
 **HackMemory/HackMemory** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
