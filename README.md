@@ -1,18 +1,18 @@
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=HackMemory&show_icons=true&theme=github_dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=HackMemory&layout=compact&show_icons=true&theme=github_dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HackMemory&layout=compact&show_icons=true&theme=github_dark)
 
 
 
 ### Contacts
 
-<a href="https://www.linkedin.com/in/akbar-aliyev-002493211/">
+<a target="_blank" href="https://www.linkedin.com/in/akbar-aliyev-002493211/">
   <img width="32px" src="https://img.icons8.com/color/48/000000/linkedin.png"  />
 </a>
-<a href="https://vk.com/creedli">
+<a target="_blank" href="https://vk.com/creedli">
   <img width="32px" src="https://img.icons8.com/color/48/000000/vk-com.png" />
 </a>
-<a href="mailto:dragon.warri0r@ya.ru">
+<a target="_blank" href="mailto:dragon.warri0r@ya.ru">
   <img width="32px" src="https://img.icons8.com/color/48/000000/apple-mail.png" />
 </a>
 
