@@ -6,6 +6,9 @@
 
 ### Contacts
 
+<a target="_blank" href="https://t.me/dragon_warri0r">
+  <img width="32px" src="https://img.icons8.com/color/48/000000/telegram-app.png" />
+</a>
 <a target="_blank" href="https://www.linkedin.com/in/akbar-aliyev-002493211/">
   <img width="32px" src="https://img.icons8.com/color/48/000000/linkedin.png"  />
 </a>
